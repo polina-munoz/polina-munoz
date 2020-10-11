@@ -21,6 +21,10 @@ Articles I enjoyed:
 
 - [Citibank’s $900 Million Mistake and the Finality of Payments](https://www.aier.org/article/citibanks-900-million-mistake-and-the-finality-of-payments/) (2020)
 
+Blogs:
+
+- https://www.moderntreasury.com/journal-categories/payments-primers
+
 ### Articles, Panels, Talks, and Interviews from the Payments Team @ Airbnb
 
 Articles:
