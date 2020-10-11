@@ -7,6 +7,8 @@ Books:
 - [The Anatomy of the Swipe: Making Money Move](https://www.amazon.com/dp/B086WT7CSL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ahmed Siddiqui.
 - [The Most Fun I Never Want To Have Again: A Mid-Life Crisis in Community Banking](https://www.amazon.com/Most-Never-Want-Have-Again/dp/1481867954). An excellent book about community banking.
 - [Invested: Changing Forever the Way Americans Invest](https://www.amazon.com/dp/B07MYKVLCL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Charles Schwab (a memoir).
+- [The Man Who Solved the Market](https://www.amazon.com/dp/B07NLFC63Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [Lying for Money](https://www.amazon.com/Lying-Money-Legendary-Frauds-Workings-ebook/dp/B078WFT5JV)
 
 Podcasts and Videos:
 
