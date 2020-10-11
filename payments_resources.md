@@ -5,6 +5,8 @@ Books:
 - [A Piece of the Action](https://smile.amazon.com/Piece-Action-Middle-Class-Joined/dp/1476744890/) by Joe Nocera. This book describes the history of financial innovation in the US through the big names of the last 50 years, such as Fidelity, Charles Schwab, and Visa.
 - [Payment Systems in the US](https://smile.amazon.com/Payments-Systems-U-S-Third-Professional-ebook/dp/B074PB7T1K/) by Glenbrook. This is a textbook overview of how wires, ACH, checks, and credit cards work and the pros and cons of each.
 - [The Anatomy of the Swipe: Making Money Move](https://www.amazon.com/dp/B086WT7CSL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ahmed Siddiqui.
+- [The Most Fun I Never Want To Have Again: A Mid-Life Crisis in Community Banking](https://www.amazon.com/Most-Never-Want-Have-Again/dp/1481867954). An excellent book about community banking.
+- [Invested: Changing Forever the Way Americans Invest](https://www.amazon.com/dp/B07MYKVLCL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Charles Schwab (a memoir).
 
 Podcasts and Videos:
 
@@ -13,7 +15,7 @@ Podcasts and Videos:
 - [Overview of Credit Cards](https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest/v/institutional-roles-in-issuing-and-processing-credit-cards) by Khan Academy. This video gives an overview of credit rails and the visuals help explain how the money flows.
 - [Why are we all paying a tax to credit card companies?](https://theweek.com/articles/850232/why-are-all-paying-tax-credit-card-companies) By Ryan Cooper at The Week. The article is about the history of the six pillars of the American payments system (cash, checks, credit cards, debit cards, wires, and ACH).
 
-Misc Articles I enjoyed:
+Articles I enjoyed:
 
 - [Citibank’s $900 Million Mistake and the Finality of Payments](https://www.aier.org/article/citibanks-900-million-mistake-and-the-finality-of-payments/) (2020)
 
