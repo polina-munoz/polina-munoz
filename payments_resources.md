@@ -13,6 +13,12 @@ Podcasts and Videos:
 - [Overview of Credit Cards](https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest/v/institutional-roles-in-issuing-and-processing-credit-cards) by Khan Academy. This video gives an overview of credit rails and the visuals help explain how the money flows.
 - [Why are we all paying a tax to credit card companies?](https://theweek.com/articles/850232/why-are-all-paying-tax-credit-card-companies) By Ryan Cooper at The Week. The article is about the history of the six pillars of the American payments system (cash, checks, credit cards, debit cards, wires, and ACH).
 
+Misc Articles I enjoyed:
+
+- [Citibank’s $900 Million Mistake and the Finality of Payments](https://www.aier.org/article/citibanks-900-million-mistake-and-the-finality-of-payments/) (2020)
+
+
+
 ### Articles, Panels, Talks, and Interviews from the Payments Team @ Airbnb
 
 Articles:
