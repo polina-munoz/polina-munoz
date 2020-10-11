@@ -19,23 +19,24 @@ Podcasts and Videos:
 
 Articles:
 
-- Avoiding Double Payments in a Distributed Payments System https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
-- Measuring Transactional Integrity in Airbnb’s Distributed Payment Ecosystem https://medium.com/airbnb-engineering/measuring-transactional-integrity-in-airbnbs-distributed-payment-ecosystem-a670d6926d22
-- Scaling Airbnb's Payment Platform, https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324
-- Testing at Airbnb, https://medium.com/airbnb-engineering/testing-at-airbnb-199f68a0a40d#.owpgrk8hl
-- Anomaly Detection for Airbnb's Payment Platform, https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199
-- Maintaining Quality at Scale, https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9
-- Secret Ingredients to building Airbnb's International Payments Platform, https://medium.com/airbnb-engineering/secret-ingredients-to-building-airbnbs-international-payments-platform-523d20b6a0cf
-- Large Scale Payment Systems and Ruby on Rails, https://medium.com/airbnb-engineering/large-scale-payments-systems-and-ruby-on-rails-bfe5b89f6f4
-- Interning with the Airbnb Payments Team, https://medium.com/airbnb-engineering/interning-with-the-airbnb-payments-team-af8cbe51eae0
-- Tracking the Money — Scaling Financial Reporting at Airbnb, https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040
+- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb) (2019)
+- [Measuring Transactional Integrity in Airbnb’s Distributed Payment Ecosystem](https://medium.com/airbnb-engineering/measuring-transactional-integrity-in-airbnbs-distributed-payment-ecosystem-a670d6926d22) (2018)
+- [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) (2017)
+- [Scaling Airbnb's Payment Platform](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324) (2016)
+- [Anomaly Detection for Airbnb's Payment Platform](https://medium.com/airbnb-engineering/anomaly-detection-for-airbnb-s-payment-platform-e3b0ec513199) (2015)
+- [Large Scale Payment Systems and Ruby on Rails](https://medium.com/airbnb-engineering/large-scale-payments-systems-and-ruby-on-rails-bfe5b89f6f4) (2015)
+- [Testing at Airbnb](https://medium.com/airbnb-engineering/testing-at-airbnb-199f68a0a40d#.owpgrk8hl) (2014)
+- [Maintaining Quality at Scale](https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9) (2014)
+- [Interning with the Airbnb Payments Team](https://medium.com/airbnb-engineering/interning-with-the-airbnb-payments-team-af8cbe51eae0)
+- [Secret Ingredients to building Airbnb's International Payments Platform](https://medium.com/airbnb-engineering/secret-ingredients-to-building-airbnbs-international-payments-platform-523d20b6a0cf) (2013)
+
 
 Talks:
 
-- Open Air Tech Talk: Payments on a Global Scale, https://www.youtube.com/watch?v=L2zRtQJX8oM
-- Open Air Tech Talk: Going Global: Getting International Users Paid | Airbnb, https://www.youtube.com/watch?v=txzlKGL3Kpo
-- Insights from TransferWise and Airbnb | Building Payments | Airbnb, https://www.youtube.com/watch?v=CUvNRZO3A_k
-- Episode 129: The Engineering of Payments (Ian Logan) http://giantrobots.fm/129
+- Insights from TransferWise and Airbnb | Building Payments | Airbnb, https://www.youtube.com/watch?v=CUvNRZO3A_k (2016)
+- Episode 129: The Engineering of Payments (Ian Logan) http://giantrobots.fm/129 (2015)
+- Open Air Tech Talk: Going Global: Getting International Users Paid | Airbnb, https://www.youtube.com/watch?v=txzlKGL3Kpo (2015)
+- Open Air Tech Talk: Payments on a Global Scale https://www.youtube.com/watch?v=L2zRtQJX8oM (2014)
 
 
 
