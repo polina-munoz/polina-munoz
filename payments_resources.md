@@ -39,7 +39,7 @@ Talks:
 
 - [How ACH Works: A Developer's Perspective](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/) by Gusto engineering. A four-part blog series about the technical aspects of ACH money movement and the difficulty of integrating to your corporate bank.
 
-### Artices from the Payments Team @ Square
+### Articles from the Payments Team @ Square
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service) (2019)
 
