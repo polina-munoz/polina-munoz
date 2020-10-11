@@ -5,6 +5,7 @@ Books:
 - [A Piece of the Action](https://smile.amazon.com/Piece-Action-Middle-Class-Joined/dp/1476744890/) by Joe Nocera. This book describes the history of financial innovation in the US through the big names of the last 50 years, such as Fidelity, Charles Schwab, and Visa.
 - [Double Entry: How the Merchants of Venice Created Modern Finance](https://www.amazon.com/Double-Entry-Merchants-Created-Finance/dp/0393346595)
 - [Payment Systems in the US](https://smile.amazon.com/Payments-Systems-U-S-Third-Professional-ebook/dp/B074PB7T1K/) by Glenbrook. This is a textbook overview of how wires, ACH, checks, and credit cards work and the pros and cons of each.
+- [Money: The True Story of a Made up thing](https://www.amazon.com/Money-True-Story-Made-Up-Thing/dp/031641719X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 - [The Anatomy of the Swipe: Making Money Move](https://www.amazon.com/dp/B086WT7CSL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ahmed Siddiqui.
 - [The Most Fun I Never Want To Have Again: A Mid-Life Crisis in Community Banking](https://www.amazon.com/Most-Never-Want-Have-Again/dp/1481867954). An excellent book about community banking.
 - [Invested: Changing Forever the Way Americans Invest](https://www.amazon.com/dp/B07MYKVLCL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Charles Schwab (a memoir).
