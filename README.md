@@ -21,7 +21,7 @@ Areas of focus:
 
 - Building reliable and safe distributed systems for high volume payment processing.
 - Being thoughtful about data architecture and MySQL/datastore performance tuning.
-- Knowing what a good API looks like.
+- Knowing what a [good API](https://increment.com/apis/) looks like.
 - Promote active redistribution of [experience points](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html).
 - Writing code that can easily be understood by others with an emphasis on clarity and maintainability.
 - Being able to jump into situations with few guardrails and make things better for the team.
