@@ -25,4 +25,4 @@ Areas of focus:
 - Promote active redistribution of [experience points](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html).
 - Writing code that can easily be understood by others with an emphasis on clarity and maintainability.
 - Being able to jump into situations with few guardrails and make things better for the team.
-- Excited about expanding [my knowledge](https://github.com/polina-soshnin/polina-soshnin/blob/master/payments_resources.md) of U.S. payments infrastructure and being able to share my learnings with different audiences, especially to empower those who work in payment operations.
+- Excited about expanding my knowledge of U.S. payments infrastructure and being able to share [my learnings](https://github.com/polina-soshnin/polina-soshnin/blob/master/payments_resources.md) with different audiences, especially to empower those who work in payment operations.
