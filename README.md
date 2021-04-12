@@ -20,7 +20,7 @@ I'm a Software Engineer at [Chime](https://www.chime.com/careers/). I have been 
 Areas of focus:
 
 - Building reliable and safe distributed systems for high volume payment processing.
-- Being thoughtful about data architecture and MySQL/datastore performance tuning.
+- Being thoughtful about domain modeling and datastore performance tuning.
 - Knowing what a [good API](https://increment.com/apis/) looks like.
 - Promoting active redistribution of [experience points](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html).
 - Writing code with an emphasis on clarity and maintainability.
