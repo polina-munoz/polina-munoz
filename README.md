@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer at [Chime](https://www.chime.com/). I have been working on software professionally for 7+ years now, most recently building backend services in Ruby and Python.
+I'm a Software Engineer at [Chime](https://www.chime.com/). 
+I have been working on software professionally for 7+ years now, most recently building backend services in Ruby and Python.
 
 Areas of focus:
 
